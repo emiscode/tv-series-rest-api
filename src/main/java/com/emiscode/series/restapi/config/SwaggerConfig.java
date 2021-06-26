@@ -35,7 +35,7 @@ public class SwaggerConfig {
 				"A very simple CRUD REST API with Spring Boot for a TV Series DEMO App",
 				"0.0.1",
 				"Terms of Service",
-				new Contact("Emilio Scodeler", "https://www.linkedin.com/in/emilio-scodeler/", 
+				new Contact("Emilio Scodeler", "https://github.com/emiscode/tv-series-rest-api", 
 						"scodeler.emilio@gmail.com"),
 				"MIT License",
 				"https://opensource.org/licenses/MIT", new ArrayList<VendorExtension>()
